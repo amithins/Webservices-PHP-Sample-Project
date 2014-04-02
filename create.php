@@ -1,3 +1,4 @@
+//comment
 <?php
 $soapURL = "http://localhost:8080/ws/services/AssetOperationService?wsdl";
 $client = new SoapClient 
